@@ -1,0 +1,7 @@
+Vegetariánus;890;1090
+Magyaros;950;1150
+Vesuvio;990;1190
+Négy sajtos;1090;1290
+Torino;980;1180
+Hawaii;1050;1250
+Húsimádó;1050;1250

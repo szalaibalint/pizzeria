@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progi\\pizzeria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C1878-7D4C-4EBF-BB71-BD9135CD71A2}|pizzeria\\pizzeria.csproj|d:\\progi\\pizzeria\\pizzeria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C1878-7D4C-4EBF-BB71-BD9135CD71A2}|pizzeria\\pizzeria.csproj|solutionrelative:pizzeria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C1878-7D4C-4EBF-BB71-BD9135CD71A2}|pizzeria\\pizzeria.csproj|d:\\progi\\pizzeria\\pizzeria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C1878-7D4C-4EBF-BB71-BD9135CD71A2}|pizzeria\\pizzeria.csproj|solutionrelative:pizzeria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\progi\\pizzeria\\pizzeria\\Form1.cs",
+              "RelativeDocumentMoniker": "pizzeria\\Form1.cs",
+              "ToolTip": "D:\\progi\\pizzeria\\pizzeria\\Form1.cs [Design]",
+              "RelativeToolTip": "pizzeria\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:07:14.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\progi\\pizzeria\\pizzeria\\Form1.cs",
+              "RelativeDocumentMoniker": "pizzeria\\Form1.cs",
+              "ToolTip": "D:\\progi\\pizzeria\\pizzeria\\Form1.cs",
+              "RelativeToolTip": "pizzeria\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwv2MAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:49:11.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
